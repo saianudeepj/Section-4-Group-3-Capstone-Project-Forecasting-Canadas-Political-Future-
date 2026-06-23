@@ -1,6 +1,7 @@
 # Section-4-Group-3-Capstone-Project
 ## Forecasting Canada's Political Future
 “Prediction is not just about seeing the future—it’s about empowering decisions in the present.” — Anonymous
+
 In the digital age, the landscape of political forecasting has shifted dramatically. No longer confined to opinion polls and expert speculation, we now have the tools to extract insights from massive volumes of structured and unstructured data. This evolution is powered by Machine Learning (ML) and Data Analysis, two fields that have revolutionized how we interpret information and anticipate outcomes.
 Machine Learning refers to algorithms that learn patterns from historical data and apply that learning to make predictions or decisions. It thrives in scenarios where complexity and data volume surpass traditional analytical methods. Data Analysis, on the other hand, forms the foundation by transforming raw data into actionable knowledge through processes like cleaning, exploration, visualization, and statistical inference.
 In this capstone project—Forecasting Canada's Political Future—we combine these two disciplines to address a multifaceted problem: understanding how past voting behaviours and modern digital discourse shape electoral outcomes.
